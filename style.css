@@ -60,3 +60,8 @@ hr {
 .navbar li a:hover {
     background-color: #111;
 }
+
+/*Container*/
+.container {
+  margin-top: 20px;
+}

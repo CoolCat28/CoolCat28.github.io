@@ -1,5 +1,5 @@
 body {
-  background-color: #66b3ff
+  background-color: DarkOrange;
 }
 
 h1 {
@@ -11,4 +11,5 @@ h1 {
 
 p {
   font-family: Helvetica, sans-serif;
+  color: white;
 }

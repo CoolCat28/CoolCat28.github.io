@@ -13,3 +13,12 @@ p {
   font-family: Times New Roman, serif;
   color: white;
 }
+
+img {
+  border: 3px solid DarkGrey;
+}
+
+h3 {
+  font-size: 2.5em;
+  color: white;
+}

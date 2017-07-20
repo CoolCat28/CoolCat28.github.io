@@ -15,10 +15,14 @@ p {
 }
 
 img {
-  border: 3px solid DarkGrey;
+  border: 3px inset DarkGrey;
+}
+
+iframe {
+  border: 3px inset DarkGrey;
 }
 
 h3 {
-  font-size: 2.5em;
+  font-size: 200.5em;
   color: white;
 }

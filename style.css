@@ -22,7 +22,7 @@ iframe {
   border: 3px inset DarkGrey;
 }
 
-h3 {
+.container h3 {
   font-size: 1.4em;
   color: white;
   font-family: Georgia, serif;
@@ -74,7 +74,7 @@ hr {
 li {
   color: white
 }
-.container2 h3
+.container2 h3 {
   color: black;
   margin-bottom: 0;
 }

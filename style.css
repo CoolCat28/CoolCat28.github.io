@@ -67,9 +67,9 @@ hr {
   top: 20px;
 }
 .container2 {
-  background-color: darkorange;
+  background-color: red;
 }
-.container li {
+li {
   color: white
 }
 .container2 h3

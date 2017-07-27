@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: DarkSlateBlue;
 }
 
 h1 {
@@ -67,7 +68,7 @@ hr {
   background-color: DarkSlateBlue;
 }
 .container2 {
-  background-color: red;
+  background-color: DarkRed;
   left: 0;
 }
 .container li {
@@ -75,7 +76,6 @@ hr {
 }
 .container2 h3 {
   color: black;
-  margin-bottom: 0;
 }
 
 .container2 p {

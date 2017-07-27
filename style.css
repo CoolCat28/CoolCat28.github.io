@@ -14,9 +14,11 @@ p {
   color: white;
 }
 
-img {
+.container img {
   border: 3px inset DarkGrey;
 }
+.container2 img {
+  border: 3px inset Black;
 
 iframe {
   border: 3px inset DarkGrey;
@@ -73,7 +75,7 @@ hr {
   left: 0;
   width: 100%;
 }
-li {
+.container li {
   color: white
 }
 .container2 h3 {
@@ -81,6 +83,9 @@ li {
   margin-bottom: 0;
 }
 
-.container p {
+.container2 p {
   color: black;
+}
+.container h4 {
+  color: white;
 }

@@ -9,11 +9,6 @@ h1 {
   text-align: center;
 }
 
-p {
-  font-family: Times New Roman, serif;
-  color: white;
-}
-
 .container img {
   border: 3px inset DarkGrey;
 }
@@ -85,7 +80,12 @@ hr {
 
 .container2 p {
   color: black;
+  font-family: Verdana, sans-serif;
 }
 .container h4 {
   color: white;
 }
+.container p {
+  color: white;
+  font-family: Times New Roman, serif;
+  }

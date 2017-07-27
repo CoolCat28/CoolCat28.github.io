@@ -64,7 +64,7 @@ hr {
 
 /*Container*/
 .container {
-  top: 20px;
+  top: 50px;
 }
 .container2 {
   background-color: red;
@@ -74,4 +74,6 @@ li {
 }
 .container2 h3
   color: black;
+  left: 0;
+  margin-bottom: 0;
 }

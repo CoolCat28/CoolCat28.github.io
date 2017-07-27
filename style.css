@@ -25,6 +25,7 @@ iframe {
 h3 {
   font-size: 1.4em;
   color: white;
+  font-family: Georgia, serif;
 }
 
 hr {
@@ -67,4 +68,10 @@ hr {
 }
 .container2 {
   background-color: darkorange;
+}
+.container li {
+  color: white
+}
+.container2 h3
+  color: black;
 }

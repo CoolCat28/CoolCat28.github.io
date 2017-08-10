@@ -23,7 +23,7 @@ body {
   padding: 20px;
   width: 100%;
 }
-#navbar ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 10px;
@@ -31,19 +31,19 @@ body {
   background-color: #333;
   position: fixed;
 }
-#navbar ul li {
+ul li {
   float: left;
 }
-#navbar ul li a {
+ul li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-#navbar ul li a:hover {
+ul li a:hover {
   background-color: #111;
 }
-#navbar .active {
+.active {
   background-color: #4CAF50;
 }

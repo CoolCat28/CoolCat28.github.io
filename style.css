@@ -8,8 +8,33 @@ body {
   background-position: center;
   padding: 20px;
   height: 500px;
+  width: 100%;
 }
 #news {
   background-color: darkred;
   padding: 20px;
+  width: 100%;
+}
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+#navbar ul li {
+  float: left;
+}
+#navbar ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#navbar ul li a:hover {
+  background-color: #111;
+}
+#navbar .active {
+  background-color: #4CAF50;
 }

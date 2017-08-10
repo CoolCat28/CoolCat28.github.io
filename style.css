@@ -10,6 +10,10 @@ body {
   height: 500px;
   width: 100%;
 }
+#begin {
+  font-family: helvetica, serif;
+  text-color: white;
+}
 #news {
   background-color: darkred;
   padding: 20px;
@@ -21,6 +25,7 @@ body {
   padding: 10px;
   overflow: hidden;
   background-color: #333;
+  position: fixed;
 }
 #navbar ul li {
   float: left;

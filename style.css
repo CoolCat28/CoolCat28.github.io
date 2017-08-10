@@ -23,9 +23,6 @@ body {
   padding: 20px;
   width: 100%;
 }
-#navbar {
-  width: 100%;
-}
 #navbar ul {
   list-style-type: none;
   margin: 0;

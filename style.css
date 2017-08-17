@@ -2,6 +2,8 @@ body {
   background-color: darkslateblue;
   margin: 0px;
 }
+h1 {
+  font-size: 0px;
 h2 {
   text-align: center;
   font-size: 40px;
@@ -11,6 +13,10 @@ h3 {
   font-size: 30px;
 }
 img {
+  display: block;
+  margin: auto;
+}
+iframe {
   display: block;
   margin: auto;
 }
@@ -38,6 +44,8 @@ img {
   padding: 20px;
   color: white;
   font-family: 'Oswald';
+  width: 800px;
+  margin: 0 auto;
 }
 ul {
   list-style-type: none;

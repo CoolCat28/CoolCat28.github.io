@@ -37,19 +37,7 @@ iframe {
   margin: 0 auto;
 }
 #begin a {
-  color: darkgreen;
-}
-#news {
-  color: darkred;
-  width:100%;
-}
-#newscontent {
-  background-color: darkred;
-  padding: 20px;
-  color: white;
-  font-family: 'Oswald';
-  width: 800px;
-  margin: 0 auto;
+  color: black;
 }
 #abouthome {
   background-image: url("http://www.qygjxz.com/data/out/35/6111868-book-image.png");
@@ -59,9 +47,24 @@ iframe {
   padding: 20px;
   height: 500px;
   padding-top: 60px;
+  font-family: 'Oswald';
 }
 #aboutbody
   background-color: darkgreen;
+  margin: 0px;
+}
+#newshome {
+  background-image: url("http://opelikaobserver.com/wp-content/uploads/2017/05/2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+  font-family: 'Oswald';
+}
+#newsbody {
+  background-color: darkred;
   margin: 0px;
 }
 ul {

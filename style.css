@@ -41,6 +41,10 @@ iframe {
   color: darkgreen;
 }
 #news {
+  color: darkred;
+  width:100%;
+}
+#newscontent {
   background-color: darkred;
   padding: 20px;
   color: white;

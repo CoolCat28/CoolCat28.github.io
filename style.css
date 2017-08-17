@@ -36,7 +36,7 @@ iframe {
   width: 800px;
   margin: 0 auto;
 }
-#begin a {
+#begin a, #newsbody a, #aboutbody a {
   color: black;
 }
 #abouthome {

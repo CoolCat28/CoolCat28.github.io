@@ -10,7 +10,7 @@ body {
   padding: 20px;
   height: 500px;
   text-color: white;
-  top: 40px;
+  padding-top: 60px;
 }
 #begin {
   font-family: helvetica, serif;

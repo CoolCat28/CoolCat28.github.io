@@ -2,6 +2,14 @@ body {
   background-color: darkslateblue;
   margin: 0px;
 }
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
 #home {
   background-image: url("http://www.qygjxz.com/data/out/35/5325929-book-image.png");
   background-repeat: no-repeat;
@@ -15,6 +23,8 @@ body {
 #begin {
   font-family: 'Oswald';
   color: white;
+  width: 800px;
+  margin: 0 auto;
 }
 #begin a {
   color: darkgreen;

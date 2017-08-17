@@ -10,6 +10,10 @@ h3 {
   text-align: center;
   font-size: 30px;
 }
+img {
+  display: block;
+  margin: auto;
+}
 #home {
   background-image: url("http://www.qygjxz.com/data/out/35/5325929-book-image.png");
   background-repeat: no-repeat;

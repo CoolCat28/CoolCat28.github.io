@@ -28,7 +28,6 @@ iframe {
   background-position: center;
   padding: 20px;
   height: 500px;
-  text-color: white;
   padding-top: 60px;
 }
 #begin {
@@ -51,6 +50,19 @@ iframe {
   font-family: 'Oswald';
   width: 800px;
   margin: 0 auto;
+}
+#abouthome {
+  background-image: url("http://www.qygjxz.com/data/out/35/6111868-book-image.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+}
+#aboutbody
+  background-color: darkgreen;
+  margin: 0px;
 }
 ul {
   list-style-type: none;

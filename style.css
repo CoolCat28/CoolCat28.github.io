@@ -13,7 +13,7 @@ body {
   padding-top: 60px;
 }
 #begin {
-  font-family: helvetica, serif;
+  font-family: 'Oswald';
   color: white;
 }
 #begin a {
@@ -23,6 +23,7 @@ body {
   background-color: darkred;
   padding: 20px;
   color: white;
+  font-family: 'Oswald';
 }
 ul {
   list-style-type: none;

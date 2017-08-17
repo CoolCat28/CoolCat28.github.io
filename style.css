@@ -14,7 +14,7 @@ body {
 }
 #begin {
   font-family: helvetica, serif;
-  text-color: white;
+  color: white;
 }
 #begin a {
   color: darkgreen;
@@ -22,12 +22,11 @@ body {
 #news {
   background-color: darkred;
   padding: 20px;
-  width: 100%;
+  color: white;
 }
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 10px;
   overflow: hidden;
   background-color: #333;
   position: fixed;

@@ -49,7 +49,7 @@ iframe {
   padding-top: 60px;
   font-family: 'Oswald';
 }
-.aboutbody {
+#aboutbody {
   background-color: darkgreen;
   margin: 0px;
 }
@@ -63,7 +63,7 @@ iframe {
   padding-top: 60px;
   font-family: 'Oswald';
 }
-.newsbody {
+#newsbody {
   background-color: darkred;
   margin: 0px;
 }

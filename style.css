@@ -1,6 +1,15 @@
 body {
   margin: 0px;
 }
+#abouthtml {
+  background-color: darkgreen;
+}
+#indexhtml {
+  background-color: darkslateblue;
+}
+#newshtml {
+  background-color: darkred;
+}
 h1 {
   font-size: 40px;
 }

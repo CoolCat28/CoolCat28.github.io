@@ -47,11 +47,11 @@ iframe {
   padding: 20px;
   height: 500px;
   padding-top: 60px;
-  font-family: 'Oswald';
 }
 #aboutbody {
   background-color: darkgreen;
   margin: 0px;
+  font-family: 'Oswald';
 }
 #newshome {
   background-image: url("http://opelikaobserver.com/wp-content/uploads/2017/05/2.jpg");
@@ -61,11 +61,11 @@ iframe {
   padding: 20px;
   height: 500px;
   padding-top: 60px;
-  font-family: 'Oswald';
 }
 #newsbody {
   background-color: darkred;
   margin: 0px;
+  font-family: 'Oswald';
 }
 ul {
   list-style-type: none;

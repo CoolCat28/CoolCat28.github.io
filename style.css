@@ -12,13 +12,10 @@ h3 {
   text-align: center;
   font-size: 30px;
 }
-img {
+img, iframe {
   display: block;
   margin: auto;
-}
-iframe {
-  display: block;
-  margin: auto;
+  border: 2px solid royalblue;
 }
 #index {
   background-color: darkslateblue;
